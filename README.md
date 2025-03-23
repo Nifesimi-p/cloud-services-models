@@ -52,9 +52,9 @@ GCP also offers a strong cloud infrastructure, and I find its integration capabi
 
 SCREENSHOTS
 
-![IMAGE1](/Users/nifesi/Desktop/R/cloud-services-models/IMAGE1.png)
-![IMAGE2](/Users/nifesi/Desktop/R/cloud-services-models/IMAGE2.png)
-![IMAGE3](/Users/nifesi/Desktop/R/cloud-services-models/IMAGE3.png)
+![IMAGE1](/https://github.com/Nifesimi-p/cloud-services-models/blob/main/Users/nifesi/Desktop/R/cloud-services-models/IMAGE1.png)
+![IMAGE2](https://github.com/Nifesimi-p/cloud-services-models/blob/main/Users/nifesi/Desktop/R/cloud-services-models/IMAGE2.png)
+![IMAGE3](/https://github.com/Nifesimi-p/cloud-services-models/blob/main/Users/nifesi/Desktop/R/cloud-services-models/IMAGE3.png)
 
 
 
