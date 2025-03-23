@@ -50,6 +50,11 @@ GCP also offers a strong cloud infrastructure, and I find its integration capabi
 - Security – IAM, Security Command Center
 
 
+SCREENSHOTS
+
+![IMAGE1](/Users/nifesi/Desktop/R/cloud-services-models/IMAGE1.png)
+![IMAGE2](/Users/nifesi/Desktop/R/cloud-services-models/IMAGE2.png)
+![IMAGE3](/Users/nifesi/Desktop/R/cloud-services-models/IMAGE3.png)
 
 
 
